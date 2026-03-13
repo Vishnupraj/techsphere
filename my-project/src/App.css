@@ -1,0 +1,21 @@
+/* Reset some default styles */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Smooth font rendering */
+
+body {
+  font-family: Inter, system-ui, Arial, sans-serif;
+  background-color: #f3f4f6;
+}
+
+/* Remove default Vite center layout */
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}

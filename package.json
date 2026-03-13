@@ -22,5 +22,13 @@
   "devDependencies": {
     "nodemon": "^3.1.14"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishnupraj/techsphere.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vishnupraj/techsphere/issues"
+  },
+  "homepage": "https://github.com/Vishnupraj/techsphere#readme",
   "description": ""
 }
